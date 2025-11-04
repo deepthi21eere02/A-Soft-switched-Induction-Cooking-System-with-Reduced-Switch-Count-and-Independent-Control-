@@ -22,7 +22,7 @@ The switching pulses Vgs1, Vgs2, Vgs3 and Vgsm for devices S1, S2, S3, and Sm re
 The proposed inverter is an excellent choice for multi-load domestic cooking applications
  
 **Files uploaded:**
-1)	Psim file-10068.psimch;
+1)	Psim file-10062.psimch;
 psim file to simulate the proposed inverter topology.
 2)	Proposed inverter circuit diagram and simulation waveforms.pdf;
 pdf file to show the circuit and simulation waveforms of proposed converter.
