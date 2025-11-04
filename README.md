@@ -1,6 +1,9 @@
 Paper Title: **“A Soft-switched Induction Cooking System with Reduced Switch Count and Independent Control for Multiple Loads”**
+
 Paper id: **10062**
+
 Authors: **Thoutreddy Deepthi Reddy and S Porpandiselvi**
+
 The proposed “A Soft-switched Induction Cooking System with Reduced Switch Count and Independent Control for Multiple Loads” is simulated in PSIM software with an output voltage of 120 V and power rating of 629 W. The proposed inverter has the following benefits over existing topologies:
 1.	An inverter configuration which can power three IH loads.
 2.	 Independent power control for each load.
