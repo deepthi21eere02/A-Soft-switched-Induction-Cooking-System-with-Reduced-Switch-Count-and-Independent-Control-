@@ -4,6 +4,8 @@ Paper id: **10062**
 
 Authors: **Thoutreddy Deepthi Reddy and S Porpandiselvi**
 
+Affiliation:**Both auhors are with Department of Electrical Engineering at National Institute of Technology, Warangal, India (e-mail: td21eerer02@student.nitw.ac.in and selvi@nitw.ac.in)**
+
 The proposed “A Soft-switched Induction Cooking System with Reduced Switch Count and Independent Control for Multiple Loads” is simulated in PSIM software with an output voltage of 120 V and power rating of 629 W. The proposed inverter has the following benefits over existing topologies:
 1.	An inverter configuration which can power three IH loads.
 2.	 Independent power control for each load.
@@ -22,11 +24,14 @@ The switching pulses Vgs1, Vgs2, Vgs3 and Vgsm for devices S1, S2, S3, and Sm re
 The proposed inverter is an excellent choice for multi-load domestic cooking applications
  
 **Files uploaded:**
-1)	Psim file-10062.psimch;
+
+**1)	Psim file-10062.psimch;**
 psim file to simulate the proposed inverter topology.
-2)	Proposed inverter circuit diagram and simulation waveforms.pdf;
+
+**2)	Proposed inverter circuit diagram and simulation waveforms.pdf;**
 pdf file to show the circuit and simulation waveforms of proposed converter.
-3)	Control logic diagram and description.pdf;
+
+**3)	Control logic diagram and description.pdf;**
 pdf file contains the generation of gating signals.
 
 
